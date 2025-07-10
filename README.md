@@ -77,7 +77,7 @@ The data on top 100 U.K Youtubers contrywise is available on [Kaggle](https://ww
 ## Methodology
 
 ## 1. SQL Modeling
-The SQL query used to derive the core financial metrics is publicly available [here](https://github.com/ken-warren/top_UK_youtubers_2024/blob/main/assets/sql). Key features of the query include:
+The SQL query used to derive the core financial metrics is publicly available [here](https://github.com/branden254/YoutubeAnalysis/blob/main/assets/sql). Key features of the query include:
 
 ```sql
 DECLARE @conversionRate FLOAT = 0.02;
@@ -229,7 +229,7 @@ The Excel worksheet below shows the subscribers comparison metrics between SQL a
 - Potential Net Profit
 
 
-![TotalSubAnalysis](https://github.com/ken-warren/top_UK_youtubers_2024/assets/134076996/fd5d394c-675e-4165-a6e1-ff6472a9d1f1)
+![TotalSubAnalysis](https://github.com/branden254/YoutubeAnalysis/assets/134076996/fd5d394c-675e-4165-a6e1-ff6472a9d1f1)
 
 
 ## Conclusion
