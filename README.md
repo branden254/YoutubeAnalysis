@@ -142,7 +142,7 @@ The expected results are highlighted in the tables below.
 
 ## Findings
 
-[Power BI Interactive Dashboard](https://github.com/branden254/YoutubeAnalysis/edit/main/assets/Top100Youtubers.pbix) 
+[Power BI Interactive Dashboard](https://github.com/branden254/YoutubeAnalysis/blob/main/assets/TopUKYoutubers2024.pbix)
 
 **_1. Who are the top 10 YouTubers with the most subscribers?_**
 
