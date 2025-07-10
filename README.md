@@ -1,5 +1,4 @@
 # Profit Behind the Views: Strategic ROI Assessment of UK YouTube Influencers 
----
 
 ## Table of Contents
 - [Overview](#overview)
@@ -227,7 +226,7 @@ The Excel worksheet below shows the subscribers comparison metrics between SQL a
 - Potential product sales
 - Potential revenue
 - Potential Net Profit
-<img width="1265" height="551" alt="TotalSubAnalysis" src="https://github.com/user-attachments/assets/f1e47bfe-a404-437f-92b3-291dba4e2541" />
+<img width="400" height="550" alt="TotalSubAnalysis" src="https://github.com/user-attachments/assets/f1e47bfe-a404-437f-92b3-291dba4e2541" />
 
 
 ## Conclusion
