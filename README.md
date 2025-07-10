@@ -227,9 +227,7 @@ The Excel worksheet below shows the subscribers comparison metrics between SQL a
 - Potential product sales
 - Potential revenue
 - Potential Net Profit
-
-
-![TotalSubAnalysis](https://github.com/branden254/YoutubeAnalysis/assets/134076996/fd5d394c-675e-4165-a6e1-ff6472a9d1f1)
+<img width="1265" height="551" alt="TotalSubAnalysis" src="https://github.com/user-attachments/assets/f1e47bfe-a404-437f-92b3-291dba4e2541" />
 
 
 ## Conclusion
