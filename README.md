@@ -1,11 +1,7 @@
 # Profit Behind the Views: Strategic ROI Assessment of UK YouTube Influencers 
-
-[Article](https://ken-warren.github.io/top_UK_youtubers_2024/)
-
 ---
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Statement of Problem](#statement-of-problem)
 - [Objectives](#objectives)
@@ -68,7 +64,7 @@ Furthermore, the analysis is time-bound to the most recent available data snapsh
 
 ## Data Source
 
-The data on top 100 U.K Youtubers contrywise is available on [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise). Since the data is in a different language, you can download the Python-translated dataset that gets the total subscribers, total videos and total views [here](https://github.com/ken-warren/top_UK_youtubers_2024/blob/main/assets/datasets/youtube_data_from_python.csv).
+The data on top 100 U.K Youtubers contrywise is available on [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise). Since the data is in a different language, you can download the Python-translated dataset that gets the total subscribers, total videos and total views [here](https://github.com/branden254/YoutubeAnalysis/blob/main/assets/datasets/youtube_data_from_python.csv).
 
 
 ## Tools
