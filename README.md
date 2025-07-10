@@ -69,7 +69,7 @@ The data on top 100 U.K Youtubers contrywise is available on [Kaggle](https://ww
 ## Tools
 1. [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - For exploring and viewing the dataset.
 2. [SQL](https://aka.ms/ssmsfullsetup) - For data manipulation and cleaning
-3. [Power BI](https://aka.ms/pbidesktopstore) - For vusualizing the top 100 UK Youtubers
+3. [Power BI](https://aka.ms/pbidesktopstore) - For visualizing the top 100 UK Youtubers
 
 ---
 
@@ -141,6 +141,8 @@ The expected results are highlighted in the tables below.
 
 
 ## Findings
+
+[Power BI Interactive Dashboard](https://github.com/branden254/YoutubeAnalysis/edit/main/assets/Top100Youtubers.pbix) 
 
 **_1. Who are the top 10 YouTubers with the most subscribers?_**
 
