@@ -1,4 +1,5 @@
 # Profit Behind the Views: Strategic ROI Assessment of UK YouTube Influencers 
+<img width="600" height="250" alt="TopUkYoutubers" src="https://github.com/user-attachments/assets/de848001-5cd5-49b8-a0ca-9fa13134c86c" />
 
 ## Table of Contents
 - [Overview](#overview)
